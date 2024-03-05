@@ -3,7 +3,7 @@
     {
       "email": "userTest2@gmail.com",
       "password": "$2a$10$ZfWC7NsDjoCpuiYcDFm2PupoGsYg.q7p9/ax3zESuEgKaZWDjQd6i",
-      "id": "1",
+      "id": 1,
       "nickName": "test",
       "birthday": "1998 / 01 / 02",
       "favorites": [],
@@ -13,7 +13,7 @@
     {
       "email": "userTest3@gmail.com",
       "password": "$2a$10$T/UIXdpwOI5wltEvYs5xy.KXdX1OOX4fAK2kIs9IroC5N/TQbJNFK",
-      "id": "2",
+      "id": 2,
       "nickName": "test",
       "birthday": "1998 / 01 / 02",
       "favorites": [],
@@ -23,7 +23,7 @@
     {
       "email": "userTest4@gmail.com",
       "password": "$2a$10$Nik6U8SnkD1ruq9fQb7Mpu9tdRH4sb4p1Y3WWfA9tRAq/pP1XpBYu",
-      "id": "3",
+      "id": 3,
       "nickName": "test",
       "birthday": "1998 / 01 / 02",
       "favorites": [],
