@@ -6,7 +6,6 @@
       "id": 1,
       "nickName": "test",
       "birthday": "1998 / 01 / 02",
-      "favorites": [],
       "location": "世界上某個角落",
       "phone": "0912955627"
     },
@@ -16,7 +15,6 @@
       "id": 2,
       "nickName": "test",
       "birthday": "1998 / 01 / 02",
-      "favorites": [],
       "location": "世界上某個角落",
       "phone": "0912955627"
     },
@@ -26,9 +24,35 @@
       "id": 3,
       "nickName": "test",
       "birthday": "1998 / 01 / 02",
-      "favorites": [],
       "location": "世界上某個角落",
       "phone": "0912955627"
+    }
+  ],
+  "favorites": [
+    {
+      "id": 1,
+      "productId": "1",
+      "userId": 1
+    },
+    {
+      "id": 2,
+      "productId": "1",
+      "userId": 2
+    },
+    {
+      "id": 3,
+      "productId": "1",
+      "userId": 2
+    },
+    {
+      "id": 4,
+      "productId": "1",
+      "userId": 2
+    },
+    {
+      "id": 5,
+      "productId": "1",
+      "userId": 3
     }
   ]
 }
