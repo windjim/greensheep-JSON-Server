@@ -31,27 +31,27 @@
   "favorites": [
     {
       "id": 1,
-      "productId": "1",
+      "productId": "-NsXc-M0-H1N1Wthpra0",
       "userId": 1
     },
     {
       "id": 2,
-      "productId": "1",
+      "productId": "-NsXc-M0-H1N1Wthpra0",
       "userId": 2
     },
     {
       "id": 3,
-      "productId": "1",
+      "productId": "-NsVZeqO-rGvWqHHdMhz",
       "userId": 2
     },
     {
       "id": 4,
-      "productId": "1",
+      "productId": "-NsVTiBTbkvk2RfrAGHr",
       "userId": 2
     },
     {
       "id": 5,
-      "productId": "1",
+      "productId": "-NsVTiBTbkvk2RfrAGHr",
       "userId": 3
     }
   ]
