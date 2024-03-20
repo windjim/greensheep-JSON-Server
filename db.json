@@ -1,7 +1,7 @@
 {
   "users": [
     {
-      "email": "userTest2@gmail.com",
+      "email": "usertest2@gmail.com",
       "password": "$2a$10$ZfWC7NsDjoCpuiYcDFm2PupoGsYg.q7p9/ax3zESuEgKaZWDjQd6i",
       "id": 1,
       "nickName": "test",
@@ -10,7 +10,7 @@
       "phone": "0912955627"
     },
     {
-      "email": "userTest3@gmail.com",
+      "email": "usertest3@gmail.com",
       "password": "$2a$10$T/UIXdpwOI5wltEvYs5xy.KXdX1OOX4fAK2kIs9IroC5N/TQbJNFK",
       "id": 2,
       "nickName": "test",
@@ -19,7 +19,7 @@
       "phone": "0912955627"
     },
     {
-      "email": "userTest4@gmail.com",
+      "email": "usertest4@gmail.com",
       "password": "$2a$10$Nik6U8SnkD1ruq9fQb7Mpu9tdRH4sb4p1Y3WWfA9tRAq/pP1XpBYu",
       "id": 3,
       "nickName": "test",
