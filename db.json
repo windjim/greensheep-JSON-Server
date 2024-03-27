@@ -26,6 +26,16 @@
       "birthday": "1998 / 01 / 02",
       "location": "世界上某個角落",
       "phone": "0912955627"
+    },
+    {
+      "email": "cd131423@gmail.com",
+      "password": "$2a$10$UtDI/GRpyNdCDBj.hJjg9uErFoHEzXdrsV2Z02m6VAWHp.2nOpY..",
+      "id": 4,
+      "nickName": "依依",
+      "birthday": "1989 / 8 / 11",
+      "favorites": [],
+      "location": "",
+      "phone": ""
     }
   ],
   "favorites": [
